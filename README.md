@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Student at Faculty of information technologies at University Džemal Bijedić of Mostar.🏫</div>  
   
 
