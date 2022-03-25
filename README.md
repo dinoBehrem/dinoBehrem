@@ -62,23 +62,26 @@
 <a href="https://github.com/dinoBehrem" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/Dinno Behrem" target="_blank">
+<a href="https://linkedin.com/in/dinno-behrem" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/Dinno Behrem" target="_blank">
+<a href="https://www.facebook.com/dino.behrem.3" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/Dino Behrem" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
 
 <br/>  
 
+<table><tr><td valign="top" width="50%">
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dinoBehrem&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoBehrem&hide_border=true&layout=compact" align="right" /></div>
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dinoBehrem&show_icons=true&count_private=true&hide_border=true" align="left" />
+
+</td></tr></table>  
 
 <br/>  
 
