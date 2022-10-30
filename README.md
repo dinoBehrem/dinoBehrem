@@ -1,4 +1,4 @@
-### <div align="center">Kod amidže Dine</div>
+### <div align="center"><h3>Kod amidže Dine</h3></div>
 
 ### <div align="center">Student at Faculty of information technologies at University Džemal Bijedić of Mostar.🏫</div>  
   
