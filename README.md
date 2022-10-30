@@ -1,11 +1,18 @@
+### <div align="center">Kod amidže Dine</div>
+
 ### <div align="center">Student at Faculty of information technologies at University Džemal Bijedić of Mostar.🏫</div>  
   
 
-- 🔭 Currently working on a school project [Galleriana](https://github.com/dinoBehrem/ImageExhibitions)  
+- 🔭 Currently working on a school project [PaperSquare](https://github.com/dinoBehrem/PaperSquare.API)  
   
 
 - 🌱 I’m currently learning Flutter  
+
+- 🌱 I’m currently learning ASP .net Core in depth
+
+- 🌱 I’m currently learning Design patterns 
   
+- 🌱 I’m currently learning Software arhitectures  
 
 <br/>  
 
@@ -97,13 +104,6 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/dinoBehrem" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
 <br />
 
 ----
