@@ -3,7 +3,8 @@
 ### <div align="center">Student at Faculty of information technologies at University Džemal Bijedić of Mostar.🏫</div>  
   
 
-- 🔭 Currently working on a school project [PaperSquare](https://github.com/dinoBehrem/PaperSquare.API)  
+- 🔭 Currently working on a school project [PaperSquare.API](https://github.com/dinoBehrem/PaperSquare.API)
+- 🔭 Currently working on a school project [PaperSquare.Angular](https://github.com/dinoBehrem/PaperSquare.Web.Angular)  
   
 
 - 🌱 I’m currently learning Flutter  
