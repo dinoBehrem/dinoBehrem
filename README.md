@@ -6,17 +6,17 @@
 - 🛠️ Currently working on a school project [PaperSquare.API](https://github.com/dinoBehrem/PaperSquare.API)
 - 🔭 Currently working on a school project [PaperSquare.Angular](https://github.com/dinoBehrem/PaperSquare.Web.Angular)    
 
-- ⌨️ .NET Core is a robust, open-source framework for building cross-platform applications, spanning web, mobile, and desktop environments from a unified codebase. Exploring .NET Core, I aim to enhance my skills in crafting scalable and efficient solutions for diverse computing platforms.
+- ⌨️ Exploring .NET Core, I aim to enhance my skills in crafting scalable and efficient solutions for diverse computing platforms.
   
 - 🌱 Flutter is a versatile UI toolkit that facilitates the creation of natively compiled applications for mobile, web, and desktop from a single codebase. I am eager to learn it to broaden my expertise in building cross-platform, visually appealing applications.  
  
 - 🔖 Angular is a powerful front-end framework that simplifies the development of dynamic, single-page web applications, and I'm currently learning it to enhance my skills in building modern, responsive user interfaces.
 
-- 📘 Docker simplifies the packaging and deployment of applications into containers, while Kubernetes orchestrates these containers to ensure seamless scalability and management across diverse environments. Embracing Docker and Kubernetes, I'm on a journey to master containerization and orchestration for building robust, scalable, and portable applications.
+- 📘 Embracing Docker and Kubernetes, I'm on a journey to master containerization and orchestration for building robust, scalable, and portable applications.
 
-- 📔 Design patterns are essential blueprints for solving recurring design problems in software development. They provide proven, reusable solutions that enhance code organization, flexibility, and maintainability. Delving into design patterns, I aim to deepen my understanding and proficiency in applying these best practices to create elegant and scalable software architectures. 
+- 📔 Delving into design patterns, I aim to deepen my understanding and proficiency in applying these best practices to create elegant and scalable software architectures. 
   
-- 📖 Software architectures define the high-level structures of a system, shaping its components and their relationships. They serve as the foundation for robust, scalable, and maintainable applications. Immersed in the world of software architectures, I am focused on mastering the principles and patterns that guide the creation of efficient, adaptable, and well-organized systems.
+- 📖 Immersed in the world of software architectures, I am focused on mastering the principles and patterns that guide the creation of efficient, adaptable, and well-organized systems.
 
 <br/>  
 
